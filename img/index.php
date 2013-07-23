@@ -28,7 +28,6 @@ function create_image($width, $height)
 
 
     // set the background to white
-    // sets background to red
     $white  = imagecolorallocate($image, 200, 200, 200);
     imagefill($image, 0, 0, $white);
 

@@ -1,3 +1,3 @@
-# Y U No Has Content
+# Y U No Has Image
 
 Angry Placeholders. 
